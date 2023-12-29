@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/837204653782584385/58bb0d0b261545a18366521c4b850dfd/artifacts
+end_time: 1703867609288
+entry_point_name: ''
+experiment_id: '837204653782584385'
+lifecycle_stage: active
+run_id: 58bb0d0b261545a18366521c4b850dfd
+run_name: valuable-kit-131
+run_uuid: 58bb0d0b261545a18366521c4b850dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703867601709
+status: 3
+tags: []
+user_id: alextanhongpin

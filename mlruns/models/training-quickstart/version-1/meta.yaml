@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1703867609277
+current_stage: None
+description: ''
+last_updated_timestamp: 1703867609277
+name: training-quickstart
+run_id: 58bb0d0b261545a18366521c4b850dfd
+run_link: ''
+source: mlflow-artifacts:/837204653782584385/58bb0d0b261545a18366521c4b850dfd/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/837204653782584385/58bb0d0b261545a18366521c4b850dfd/artifacts/iris_model
+user_id: null
+version: 1
